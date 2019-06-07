@@ -1,0 +1,20 @@
+#style_border
+{
+    border-top: none;
+    border-bottom-color: black;
+    border-right:none;
+    border-left: none;
+
+}
+#second_row_1
+{
+    width: 10%;
+}
+#second_row_2
+{
+    width: 59%;
+}
+#auto_word_spacing
+{
+    word-spacing: 20px;
+}
